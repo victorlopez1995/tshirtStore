@@ -1,0 +1,8 @@
+.store-cart .btn {
+    background-color: #51d569; /* Replace with your desired background color */
+    color: #fdf9f9; /* Replace with your desired text color */
+  }
+  
+  .store-cart .btn i {
+    color: hsl(0, 0%, 98%); /* Replace with your desired icon color */
+  }

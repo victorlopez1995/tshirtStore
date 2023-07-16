@@ -1,0 +1,23 @@
+<div class="panel panel-default" xmlns="http://www.w3.org/1999/html">
+    <div class="panel-heading">
+      <div class="row pad-all">
+        <h4 class="title margin-left-right">{{product.name}}</h4>
+        <div class="row pull-right margin-left-right">
+          <div class="btn-toolbar mr-3" role="toolbar" aria-label="Toolbar with button groups">
+            <div class="btn-group mr-3" role="group" aria-label="First group">
+              <a class="btn btn-primary" (click)="onBuy()">Ad to cart</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="pad-left-right">
+        <br>
+        <div class="row">
+          <label>Picture:</label><br> 
+          <img src="{{ product.picture }}" alt="{{ product.name }}" class="img-thumbnail product-image">
+        </div>
+      </div>
+    </div>
+</div>

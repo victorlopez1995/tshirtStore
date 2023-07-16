@@ -1,0 +1,24 @@
+<div class="panel panel-default">
+    <div class="panel-heading clearfix">    
+        <div class="row">
+            <div class="col-xs-12">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <div class="row">
+                    <span class="title pad-left-right">Cart List</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>   
+    <div class="panel-body"> 
+    <div class="row">
+    <div class="col-xs-12">
+        <store-cart-item *ngFor="let cartProduct of cartProducts" 
+        [cartProduct]="cartProduct"
+        ></store-cart-item>
+    </div>    
+    </div>
+    </div>
+</div>

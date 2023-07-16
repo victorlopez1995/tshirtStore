@@ -1,0 +1,20 @@
+<div 
+class="list-group-item clearfix"
+> 
+    <div class="pull-left">
+        <h4 class="list-group-item-heading">{{cartProduct.name}}</h4>
+        <img 
+        [src]="cartProduct.picture" 
+        alt="{{cartProduct.name}}" 
+        class="image-resposive" 
+        style="max-height: 50px;">
+    </div>
+    <span class="pull-right">
+
+        <div class="btn-toolbar mr-3" role="toolbar" aria-label="Toolbar with button groups">
+            <div class="btn-group" role="group" aria-label="Third group">
+              <a class="btn btn-danger" (click)="onDelete(cartProduct)">Delete</a>
+            </div>
+          </div>
+    </span>
+</div>

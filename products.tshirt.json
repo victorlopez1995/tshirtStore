@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde20"
+  },
+  "id": "1",
+  "name": "Yellow T-shirt",
+  "picture": "https://images.pexels.com/photos/3775119/pexels-photo-3775119.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde21"
+  },
+  "id": "2",
+  "name": "Two lines T-shirt",
+  "picture": "https://images.pexels.com/photos/2769297/pexels-photo-2769297.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde22"
+  },
+  "id": "3",
+  "name": "White T-shirt",
+  "picture": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FtaXNhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde23"
+  },
+  "id": "4",
+  "name": "Original T-shirt",
+  "picture": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FtaXNhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde24"
+  },
+  "id": "5",
+  "name": "SuperHeroes T-shirt",
+  "picture": "https://images.pexels.com/photos/701771/pexels-photo-701771.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde25"
+  },
+  "id": "6",
+  "name": "MonaLisa T-shirt",
+  "picture": "https://images.pexels.com/photos/3586020/pexels-photo-3586020.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde26"
+  },
+  "id": "7",
+  "name": "Black T-shirt",
+  "picture": "https://images.unsplash.com/photo-1599255068390-206e0d068539?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhbWlzYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde27"
+  },
+  "id": "8",
+  "name": "Pink T-shirt",
+  "picture": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbWlzYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+},
+{
+  "_id": {
+    "$oid": "64b0bba773b9333e5dbfde28"
+  },
+  "id": "9",
+  "name": "Nirvana T-shirt",
+  "picture": "https://images.pexels.com/photos/1933589/pexels-photo-1933589.jpeg?auto=compress&cs=tinysrgb&w=600"
+}]
